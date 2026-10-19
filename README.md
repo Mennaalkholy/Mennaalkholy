@@ -6,16 +6,18 @@ Full-stack & AI developer building web systems with **NestJS + React** and apply
 - 🏥 Built an ML hospital scheduler deployed with Docker & Kubernetes
 
 ## 🛠️ Tech
-**Backend:** NestJS, TypeScript, FastAPI, MongoDB, JWT, Microservices  
+**Backend:** NestJS, TypeScript, FastAPI, Microservices, JWT  
+**Data & Messaging:** PostgreSQL (Prisma), MongoDB, Redis, RabbitMQ  
 **Frontend:** React, Vite, Tailwind CSS, shadcn/ui  
 **AI / ML:** PyTorch, Ultralytics YOLO, XGBoost, CatBoost, scikit-learn, Streamlit, MediaPipe, OpenCV  
-**DevOps:** Docker, Kubernetes  
+**DevOps:** Docker, Kubernetes, GitHub Actions  
 **Testing:** Katalon, pytest
 
 ## ⭐ Featured Projects
 | Project | What it does | Stack |
 |---|---|---|
 | [Dentixt](https://github.com/Mennaalkholy/Final-Grad-Submission-) | Dental clinic management + AI X-ray analysis (caries, implants, crowns, fillings) | NestJS, React, MongoDB, FastAPI, YOLO 11 |
+| [Payments API](https://github.com/Mennaalkholy/payments-api) | Payments backend with idempotency keys, row-level locking, cached balances, events & signed webhooks | NestJS, PostgreSQL, Prisma, Redis, RabbitMQ, Docker, GitHub Actions |
 | [Hospital Scheduler](https://github.com/Mennaalkholy/hospital-scedular-) | Predicts patient wait times & recommends staffing | Python, XGBoost, CatBoost, FastAPI, Streamlit, Docker, K8s |
 | [Foodmine](https://github.com/Mennaalkholy/Service-project-foodmine) | Microservices food-ordering app with chat | NestJS, React, API Gateway |
 | [Intelligent Web Crawler](https://github.com/Mennaalkholy/Project-Crawler) | Crawlability analysis & metadata extraction | Python |
